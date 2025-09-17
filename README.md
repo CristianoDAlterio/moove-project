@@ -38,7 +38,7 @@ perché in Full Page alcuni browser bloccano gli eventi JavaScript.
 - **Lucide Icons** (per icone social e hamburger)
 
 ---
-
+```
 ## 📂 Struttura del progetto
 
 moove-project/
@@ -61,7 +61,7 @@ moove-project/
 ├─ package.json
 ├─ tsconfig.json
 └─ README.md
-
+```
 
 > ℹ️ La cartella `dist/` è ignorata tramite `.gitignore`.
 
@@ -72,5 +72,4 @@ moove-project/
    ```bash
    git clone https://github.com/<tuo-username>/moove-project.git
    cd moove-project
-# moove-project
 # moove-project
