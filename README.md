@@ -38,9 +38,10 @@ perché in Full Page alcuni browser bloccano gli eventi JavaScript.
 - **Lucide Icons** (per icone social e hamburger)
 
 ---
-```
+
 ## 📂 Struttura del progetto
 
+```
 moove-project/
 ├─ src/
 │ ├─ interfaces/
