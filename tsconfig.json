@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    /* Output */
+    "target": "ES2020",                 
+    "module": "ESNext",                 
+    "outDir": "./dist",                 // tutto finisce in dist/
+    "rootDir": "./src",                 // parte da src/
+
+    /* Controlli e compatibilità */
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+
+    /* Librerie */
+    "lib": ["ES2020", "DOM"]
+  },
+
+  /* Includiamo tutto il codice TS */
+  "include": ["src/**/*"]
+}
